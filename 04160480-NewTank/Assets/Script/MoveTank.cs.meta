@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: eede8e80f8a19dd4c89652ec4134a864
+timeCreated: 1523698116
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missilePrefab: {fileID: 1259687764613274, guid: 145c8b23c0a70f24a8dbbbd1896e3bb1,
+      type: 2}
+  - endOfCanon: {fileID: 4703060205866844, guid: 6c14dd04bedab9b48a655bf5356bac8d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
